@@ -10,7 +10,7 @@ Translation made by Fr3nchyD3rpy
 	"BotCarryBags_menu_auto_follow_player_title" : "Suis le joueur automatiquement",
 	"BotCarryBags_menu_auto_follow_player_desc" : "Le Bot suivera le joueur quand il a un sac. (Obligatoire :'Criez pour qu'il vient ici')",
 	"BotCarryBags_menu_lua_keybinds_title" : "commande pour la logic",
-	"BotCarryBags_menu_lua_keybinds_desc" : "Quand activer, Le système créera la commande pour utiliser la logic directement.",
+	"BotCarryBags_menu_lua_keybinds_desc" : "Quand activé, Le système créera la commande pour utiliser la logic directement.",
 	"BotCarryBags_menu_shout_to_drop_title" : "Crie pour lacher",
 	"BotCarryBags_menu_shout_to_drop_desc" : "Le Bot va lacher le sac quand vous lui criez dessus",
 	"BotCarryBags_menu_fix_outside_bag_title" : "Règle le sac inaténiable",
